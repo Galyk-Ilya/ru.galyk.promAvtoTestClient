@@ -1,16 +1,5 @@
 syntax = "proto3";
 package com.example.grpc;
-//message MsgRequest {
-//  bytes img = 1;
-//}
-//
-//message MsgResponse {
-//    string greeting = 1;
-//  //int32 reply = 1;
-//}
-//service GreetingService {
-//  rpc Analyse (stream MsgRequest) returns (stream MsgResponse) {}
-//}
 
 message MsgRequest {
 
