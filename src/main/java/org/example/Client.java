@@ -11,9 +11,7 @@ import java.util.Iterator;
 
 class Client {
     static JFrame window = new JFrame();
-
     static JLabel screen = new JLabel();
-
     static ImageIcon ic;
 
     public static void main(String[] args) {
